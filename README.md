@@ -1,4 +1,4 @@
-# Party DJ - Unofficial Community Documentation
+# Party DJ - Documentation
 
 * [API Docs](/api/README.md)
 * [Backend Clients](/clients/README.md)
